@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a2d4683ce327f42bc10fa6461e902c, type: 3}
+  m_Name: Beginner
+  m_EditorClassIdentifier: 
+  dialogueStrings:
+  - Welcome to the Edge of the World!
+  - "For many of you, this is your first time on the track\u2014but don\u2019t worry,
+    we\u2019ve got you covered!"
+  - "That\u2019s right!"
+  - This race is all about getting a feel for the road, learning the turns, and building
+    that confidence.
+  - "No pressure\u2014just speed and fun!"
+  - So take a deep breath, grip that wheel, and get ready to experience the rush!
+  - "Racers, engines on\u2026 and let\u2019s GO!"
+  - 
+  dialogueNameStrings:
+  - Announcer
+  - Announcer
+  - Co-Host
+  - Co-Host
+  - Co-Host
+  - Announcer
+  - Announcer
+  - 
+  dialogueImages:
+  - {fileID: 2800000, guid: 947dea023a7744f47b6aa329c434c4c7, type: 3}
+  - {fileID: 2800000, guid: 947dea023a7744f47b6aa329c434c4c7, type: 3}
+  - {fileID: 2800000, guid: 84efa8370fe10b848bc178c016f01492, type: 3}
+  - {fileID: 2800000, guid: 84efa8370fe10b848bc178c016f01492, type: 3}
+  - {fileID: 2800000, guid: 84efa8370fe10b848bc178c016f01492, type: 3}
+  - {fileID: 2800000, guid: 947dea023a7744f47b6aa329c434c4c7, type: 3}
+  - {fileID: 2800000, guid: 947dea023a7744f47b6aa329c434c4c7, type: 3}
+  - {fileID: 0}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a2d4683ce327f42bc10fa6461e902c, type: 3}
+  m_Name: Advanced
+  m_EditorClassIdentifier: 
+  dialogueStrings:
+  - "You\u2019ve conquered the warm-ups. You\u2019ve earned your place here."
+  - "But now? Now it\u2019s time to see who truly rules the road!"
+  - This is where the weak fall behind and the fearless take control.
+  - Faster speeds, tighter corners, and zero room for mistakes!
+  - Only the best survive the Edge of the World. Are you ready to claim your spot
+    among them?
+  - "Then start those engines\u2026 because it\u2019s time to RACE!"
+  - 
+  dialogueNameStrings:
+  - Announcer
+  - Announcer
+  - Co-Host
+  - Co-Host
+  - Announcer
+  - Co-Host
+  - 
+  dialogueImages:
+  - {fileID: 2800000, guid: 947dea023a7744f47b6aa329c434c4c7, type: 3}
+  - {fileID: 2800000, guid: 947dea023a7744f47b6aa329c434c4c7, type: 3}
+  - {fileID: 2800000, guid: 84efa8370fe10b848bc178c016f01492, type: 3}
+  - {fileID: 2800000, guid: 84efa8370fe10b848bc178c016f01492, type: 3}
+  - {fileID: 2800000, guid: 947dea023a7744f47b6aa329c434c4c7, type: 3}
+  - {fileID: 2800000, guid: 84efa8370fe10b848bc178c016f01492, type: 3}
+  - {fileID: 0}
