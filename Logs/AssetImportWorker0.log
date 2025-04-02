@@ -260,3 +260,11 @@ Received Import Request.
 Start importing Assets/Scenes/Dialogue/Advance Race Dialogue.unity using Guid(6d747f7ec8aeca1429d11fcfe427d6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f5fa774ce2b29654fb9c5c515eea58') in 0.000676 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.612744 seconds.
+  path: Assets/Scenes/Dialogue/Beginner Race Dialogue.unity
+  artifactKey: Guid(8efd56a190c54394381c8bc928e4181c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Dialogue/Beginner Race Dialogue.unity using Guid(8efd56a190c54394381c8bc928e4181c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3375752baef8f158be7595af97811d4') in 0.000560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0

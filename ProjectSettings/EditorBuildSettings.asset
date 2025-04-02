@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 8b961e06384ca7e409dacedd4379881b
   - enabled: 1
-    path: Assets/Scenes/Dialogue/DialogueCheckPoint.unity
+    path: Assets/Scenes/Dialogue/Checkpoint Race Dialogue.unity
     guid: ab7e32f97114b9d4ba7d3e13872e6149
   - enabled: 1
     path: Assets/Scenes/CheckPointRace.unity
